@@ -27,7 +27,7 @@ const Home = () => {
           headerRight: () => (
             <ScreenHeaderBtn iconUrl={images.profile} dimension='100%' />
           ),
-          headerTitle: "Beautiful LARI Job Search",
+          headerTitle: "My Job Search",
         }}
       />
 
