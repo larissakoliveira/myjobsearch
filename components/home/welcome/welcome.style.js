@@ -6,10 +6,15 @@ const styles = StyleSheet.create({
   container: {
     width: "100%",
   },
-  userName: {
+  hello: {
     fontFamily: FONT.regular,
     fontSize: SIZES.large,
     color: COLORS.secondary,
+  },
+  userName: {
+    fontFamily: FONT.bold,
+    fontSize: SIZES.xLarge,
+    color: COLORS.tertiary
   },
   welcomeMessage: {
     fontFamily: FONT.bold,
